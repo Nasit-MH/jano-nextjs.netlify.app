@@ -1,0 +1,1 @@
+https://nasit-mh.github.io/jano-nextjs.netlify.app/src/
